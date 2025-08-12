@@ -41,7 +41,7 @@
   },
   {
     "nome": "Conquista",
-    "profissao": "",
+    "profissao": "Material de Construção",
     "telefoneFixo": "(32) 3273-1214",
     "telefoneCelular": "(32) 99917-6758",
     "telefoneCelularAlternativo": "",
@@ -71,7 +71,7 @@
   },
   {
     "nome": "Dobel",
-    "profissao": "",
+    "profissao": "Geladeira",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 99197-7409",
     "telefoneCelularAlternativo": "",
@@ -81,7 +81,7 @@
   },
   {
     "nome": "Dorico",
-    "profissao": "",
+    "profissao": "Jardineiro",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 98498-5679",
     "telefoneCelularAlternativo": "",
@@ -121,7 +121,7 @@
   },
   {
     "nome": "Guilherme",
-    "profissao": "",
+    "profissao": "Comunicação Visual",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 99904-9771",
     "telefoneCelularAlternativo": "",
@@ -130,8 +130,8 @@
     "obs": ""
   },
   {
-    "nome": "Jean",
-    "profissao": "",
+    "nome": "Jean Clínica Do Lar",
+    "profissao": "Clínica",
     "telefoneFixo": "",
     "telefoneCelular": "(31) 98687-1472",
     "telefoneCelularAlternativo": "",
@@ -231,7 +231,7 @@
   },
   {
     "nome": "Pernalonga",
-    "profissao": "",
+    "profissao": "Lanches",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 98809-8182",
     "telefoneCelularAlternativo": "",
@@ -241,7 +241,7 @@
   },
   {
     "nome": "Retro Paulo MB",
-    "profissao": "",
+    "profissao": "Retroescavadeira",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 99825-3093",
     "telefoneCelularAlternativo": "",
@@ -281,7 +281,7 @@
   },
   {
     "nome": "Thiago",
-    "profissao": "PinMontador de Móveistor",
+    "profissao": "Montador de Móveis",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 98891-1033",
     "telefoneCelularAlternativo": "",
@@ -290,7 +290,7 @@
     "obs": ""
   },
   {
-    "nome": "Tok Final Forro Pvc",
+    "nome": "Tok Final",
     "profissao": "Forro de PVC",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 99997-0197",

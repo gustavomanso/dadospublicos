@@ -86,7 +86,7 @@
     "telefoneCelular": "(32) 98498-5679",
     "telefoneCelularAlternativo": "",
     "whatsapp": "32984985679",
-    "indicacao": "Lucas",
+    "indicacao": "Lucas / Jaqueline",
     "obs": ""
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "nome": "Jean Clínica Do Lar",
-    "profissao": "Clínica",
+    "profissao": "Manutenção de Casa",
     "telefoneFixo": "",
     "telefoneCelular": "(31) 98687-1472",
     "telefoneCelularAlternativo": "",
@@ -176,7 +176,7 @@
     "telefoneCelular": "(32) 99803-6306",
     "telefoneCelularAlternativo": "",
     "whatsapp": "3298036306",
-    "indicacao": "Lucas",
+    "indicacao": "Lucas / Jaqueline",
     "obs": ""
   },
   {
@@ -294,7 +294,7 @@
     "profissao": "Forro de PVC",
     "telefoneFixo": "",
     "telefoneCelular": "(32) 99997-0197",
-    "telefoneCelularAlternativo": "(32) 98834-2634",
+    "telefoneCelularAlternativo": "",
     "whatsapp": "32999970197",
     "indicacao": "Lucas",
     "obs": ""
@@ -317,6 +317,186 @@
     "telefoneCelularAlternativo": "",
     "whatsapp": "32999084333",
     "indicacao": "Lucas",
+    "obs": ""
+  },
+  {
+    "nome": "Gê",
+    "profissao": "Pintor",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99935-3710",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999353710",
+    "indicacao": "Moura",
+    "obs": ""
+  },
+  {
+    "nome": "Anderson Silva",
+    "profissao": "Ventiladores",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98883-3433",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32988833433",
+    "indicacao": "Moura",
+    "obs": ""
+  },
+  {
+    "nome": "William",
+    "profissao": "Eletricista",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99122-3671",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32991223671",
+    "indicacao": "Fernanda Mendonça",
+    "obs": ""
+  },
+  {
+    "nome": "Ricardo",
+    "profissao": "Serralheiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98703-3879",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32987033879",
+    "indicacao": "Fernanda Mendonça",
+    "obs": ""
+  },
+  {
+    "nome": "Fabiele",
+    "profissao": "Faxineira",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99998-5598",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "3299985598",
+    "indicacao": "Jaqueline",
+    "obs": ""
+  },
+  {
+    "nome": "Daniel Roque",
+    "profissao": "Jardineiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99969-1922",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "3299691922",
+    "indicacao": "Marta Rosa",
+    "obs": ""
+  },
+  {
+    "nome": "Giovani Rocha",
+    "profissao": "Automação Residencial",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99977-7144",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999777144",
+    "indicacao": "",
+    "obs": ""
+  },
+  {
+    "nome": "Celso",
+    "profissao": "Ar Condicionado",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99941-1024",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "3299941024",
+    "indicacao": "",
+    "obs": ""
+  },
+  {
+    "nome": "Marcelo",
+    "profissao": "Piscineiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98803-4858",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32988034858",
+    "indicacao": "",
+    "obs": ""
+  },
+  {
+    "nome": "Eduardo",
+    "profissao": "Jardineiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99993-3867",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999933867",
+    "indicacao": "",
+    "obs": ""
+  },
+  {
+    "nome": "Gilmar",
+    "profissao": "Pedreiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99937-9304",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "329999379304",
+    "indicacao": "Ana Maria",
+    "obs": "Pedreiro muito bom!"
+  },
+  {
+    "nome": "Wilson",
+    "profissao": "Flora",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98871-3375",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "",
+    "indicacao": "Ana Maria",
+    "obs": "Tem Flora em Matias Barbosa e faz plantio também!"
+  },
+  {
+    "nome": "Giovani",
+    "profissao": "Pedreiro",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99802-0745",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999802745",
+    "indicacao": "Karina Marques",
+    "obs": ""
+  },
+  {
+    "nome": "Wallace Sodre",
+    "profissao": "Pintor",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99135-8151",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "329991358151",
+    "indicacao": "Karina Marques",
+    "obs": ""
+  },
+  {
+    "nome": "Renato",
+    "profissao": "Ar Condicionado",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98821-3148",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32988213148",
+    "indicacao": "Moura",
+    "obs": ""
+  },
+  {
+    "nome": "Camilo",
+    "profissao": "Gás",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99113-2222",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "329991132222",
+    "indicacao": "Camilo",
+    "obs": "R$ 90,00 o botijão. Não entrega, é preciso buscar (ao lado da portaria)."
+  },
+  {
+    "nome": "Auto Peças Salvaterra",
+    "profissao": "Auto Peças",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99813-1666",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "329998131666",
+    "indicacao": "Nancy Lara",
+    "obs": ""
+  },
+  {
+    "nome": "Nelson",
+    "profissao": "Corretor",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98414-4705",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "",
+    "indicacao": "Jaqueline",
     "obs": ""
   }
 ]

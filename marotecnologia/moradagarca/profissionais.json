@@ -1,34 +1,10 @@
 [
   {
-    "nome": "João da Luz",
-    "profissao": "Eletricista",
-    "telefone": "(11) 91234-5678",
-    "whatsapp": "11912345678",
-    "indicacao": "Apto 101",
-    "obs": "Rápido e preço justo."
-  },
-  {
-    "nome": "Maria Pedreira",
-    "profissao": "Pedreiro",
-    "telefone": "(11) 99876-5432",
-    "whatsapp": "11998765432",
-    "indicacao": "Apto 202",
-    "obs": "Trabalho limpo e caprichoso."
-  },
-  {
-    "nome": "Carlos Encanador",
-    "profissao": "Encanador",
-    "telefone": "(11) 98765-4321",
-    "whatsapp": "11987654321",
-    "indicacao": "Apto 303",
-    "obs": "Resolveu rápido um vazamento difícil."
-  },
-  {
-    "nome": "Ana Diarista",
-    "profissao": "Diarista",
-    "telefone": "(11) 91234-0000",
-    "whatsapp": "11912340000",
-    "indicacao": "Apto 404",
-    "obs": "Caprichosa e de confiança."
+    "nome": "Eduardo",
+    "profissao": "Jardineiro",
+    "telefone": "(32) 99993-3867",
+    "whatsapp": "32999933867",
+    "indicacao": "Jaqueline",
+    "obs": "Também faz faxina de vidros pós obra."
   }
 ]

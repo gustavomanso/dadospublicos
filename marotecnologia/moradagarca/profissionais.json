@@ -478,5 +478,25 @@
     "whatsapp": "",
     "indicacao": "Jaqueline",
     "obs": ""
+  },
+  {
+    "nome": "Thalita Vero",
+    "profissao": "Internet",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99978-4570",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999784570",
+    "indicacao": "Caio Lavinas",
+    "obs": ""
+  },
+  {
+    "nome": "Migual",
+    "profissao": "Mecânico",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98875-4855",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32988754855",
+    "indicacao": "Nancy Lara",
+    "obs": ""
   }
 ]

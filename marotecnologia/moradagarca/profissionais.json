@@ -10,16 +10,6 @@
     "obs": "Também faz faxina de vidros pós obra."
   },
   {
-    "nome": "Adilson",
-    "profissao": "Bombeiro",
-    "telefoneFixo": "",
-    "telefoneCelular": "(32) 99113-6776",
-    "telefoneCelularAlternativo": "",
-    "whatsapp": "32999136776",
-    "indicacao": "Lucas",
-    "obs": ""
-  },
-  {
     "nome": "Caio",
     "profissao": "Caçamba",
     "telefoneFixo": "",
@@ -497,6 +487,56 @@
     "telefoneCelularAlternativo": "",
     "whatsapp": "32988754855",
     "indicacao": "Nancy Lara",
+    "obs": ""
+  },
+  {
+    "nome": "Dionísia",
+    "profissao": "Uber",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 98855-2104",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32988552104",
+    "indicacao": "Rita",
+    "obs": ""
+  },
+  {
+    "nome": "Luiz",
+    "profissao": "Uber",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99916-6789",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999166789",
+    "indicacao": "Bianca Stambassi",
+    "obs": ""
+  },
+  {
+    "nome": "Davi",
+    "profissao": "Uber",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99994-3252",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32999943252",
+    "indicacao": "Patrícia Barros",
+    "obs": ""
+  },
+  {
+    "nome": "Sollana",
+    "profissao": "Cortinas",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99199-6010",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32991996010",
+    "indicacao": "Fernanda Nunes",
+    "obs": ""
+  },
+  {
+    "nome": "Marcinho",
+    "profissao": "Bombeiro Hidráulico",
+    "telefoneFixo": "",
+    "telefoneCelular": "(32) 99800-3052",
+    "telefoneCelularAlternativo": "",
+    "whatsapp": "32998003052",
+    "indicacao": "Alfredo",
     "obs": ""
   }
 ]

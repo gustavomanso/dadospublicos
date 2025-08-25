@@ -5,12 +5,9 @@
         "torcedores": 44944000,
         "patrocinioMaster": "Betano",
         "valorPatrocinioMaster": 268500000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 1287000
     },
     {
         "time": "Corinthians",
@@ -18,12 +15,9 @@
         "torcedores": 25228000,
         "patrocinioMaster": "Esportes da Sorte",
         "valorPatrocinioMaster": 103000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 1120000
     },
     {
         "time": "Palmeiras",
@@ -31,12 +25,9 @@
         "torcedores": 13780000,
         "patrocinioMaster": "Sportingbet",
         "valorPatrocinioMaster": 100000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 1128000
     },
     {
         "time": "São Paulo",
@@ -44,12 +35,9 @@
         "torcedores": 13568000,
         "patrocinioMaster": "Superbet",
         "valorPatrocinioMaster": 52000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 732000
     },
     {
         "time": "Vasco",
@@ -57,12 +45,9 @@
         "torcedores": 7208000,
         "patrocinioMaster": "Betfair",
         "valorPatrocinioMaster": 70000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 408000
     },
     {
         "time": "Grêmio",
@@ -70,12 +55,9 @@
         "torcedores": 6360000,
         "patrocinioMaster": "Alfa.bet",
         "valorPatrocinioMaster": 50000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 490000
     },
     {
         "time": "Cruzeiro",
@@ -83,12 +65,9 @@
         "torcedores": 4876000,
         "patrocinioMaster": "Betfair",
         "valorPatrocinioMaster": 40000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 372000
     },
     {
         "time": "Atlético",
@@ -96,12 +75,9 @@
         "torcedores": 4876000,
         "patrocinioMaster": "H2bet",
         "valorPatrocinioMaster": 60000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 607000
     },
     {
         "time": "Bahia",
@@ -109,12 +85,9 @@
         "torcedores": 4664000,
         "patrocinioMaster": "Viva Sorte Bet",
         "valorPatrocinioMaster": 57000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 298000
     },
     {
         "time": "Santos",
@@ -122,12 +95,9 @@
         "torcedores": 4240000,
         "patrocinioMaster": "7K",
         "valorPatrocinioMaster": 52500000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 436000
     },
     {
         "time": "Internacional",
@@ -135,12 +105,9 @@
         "torcedores": 3604000,
         "patrocinioMaster": "Alfa.bet",
         "valorPatrocinioMaster": 50000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 517000
     },
     {
         "time": "Botafogo",
@@ -148,12 +115,9 @@
         "torcedores": 3180000,
         "patrocinioMaster": "VBet",
         "valorPatrocinioMaster": 55000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 540000
     },
     {
         "time": "Sport",
@@ -161,12 +125,9 @@
         "torcedores": 2756000,
         "patrocinioMaster": "Betnacional",
         "valorPatrocinioMaster": 72000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 0
     },
     {
         "time": "Fluminense",
@@ -174,12 +135,9 @@
         "torcedores": 1908000,
         "patrocinioMaster": "Superbet",
         "valorPatrocinioMaster": 52000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 684000
     },
     {
         "time": "Vitória",
@@ -187,12 +145,9 @@
         "torcedores": 1696000,
         "patrocinioMaster": "Bet7K",
         "valorPatrocinioMaster": 20000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 186000
     },
     {
         "time": "Fortaleza",
@@ -200,12 +155,9 @@
         "torcedores": 1484000,
         "patrocinioMaster": "Cassino",
         "valorPatrocinioMaster": 30000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 269000
     },
     {
         "time": "Ceará",
@@ -213,25 +165,9 @@
         "torcedores": 1484000,
         "patrocinioMaster": "Esportes da Sorte",
         "valorPatrocinioMaster": 46000000,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
-    },
-    {
-        "time": "Santa Cruz",
-        "percentual": 0.6,
-        "torcedores": 1272000,
-        "patrocinioMaster": "",
-        "valorPatrocinioMaster": 0,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
-        "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 0
     },
     {
         "time": "Athletico-PR",
@@ -239,24 +175,8 @@
         "torcedores": 1060000,
         "patrocinioMaster": "",
         "valorPatrocinioMaster": 0,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
         "cotasTv": "",
-        "valorCotasTv": 0
-    },
-    {
-        "time": "Remo",
-        "percentual": 0.5,
-        "torcedores": 1060000,
-        "patrocinioMaster": "",
-        "valorPatrocinioMaster": 0,
-        "fornecedoraMaterialEsportivo": "",
-        "valorFornecedoraMaterialEsportivo": 0,
-        "outrosPatrocinios": "",
-        "valorOutrosPatrocinios": 0,
-        "cotasTv": "",
-        "valorCotasTv": 0
+        "valorCotasTv": 0,
+        "valorReceitaBruta": 497000
     }
 ]

@@ -1,0 +1,407 @@
+{
+    "competition": "Campeonato Brasileiro Série A",
+    "season": 2025,
+    "source": "sofascore.com",
+    "matches": [
+        {
+            "round": 1,
+            "home": "CR Flamengo",
+            "away": "SC Internacional",
+            "home_possession": 62,
+            "away_possession": 38,
+            "home_fouls": 10,
+            "away_fouls": 17,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
+            "round": 1,
+            "home": "SE Palmeiras",
+            "away": "Botafogo FR",
+            "home_possession": 58,
+            "away_possession": 42,
+            "home_fouls": 18,
+            "away_fouls": 22,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 2,
+            "home": "SC Recife",
+            "away": "SE Palmeiras",
+            "home_possession": 51,
+            "away_possession": 49,
+            "home_fouls": 17,
+            "away_fouls": 21,
+            "referee": "Bruno Arleu de Araujo"
+        },
+        {
+            "round": 2,
+            "home": "EC Vitória",
+            "away": "CR Flamengo",
+            "home_possession": 37,
+            "away_possession": 63,
+            "home_fouls": 7,
+            "away_fouls": 17,
+            "referee": "Rafael Rodrigo Klein"
+        },
+        {
+            "round": 3,
+            "home": "SE Palmeiras",
+            "away": "SC Corinthians Paulista",
+            "home_possession": 34,
+            "away_possession": 66,
+            "home_fouls": 17,
+            "away_fouls": 18,
+            "referee": "Rafael Rodrigo Klein"
+        },
+        {
+            "round": 3,
+            "home": "CR Flamengo",
+            "away": "Grêmio FBPA",
+            "home_possession": 39,
+            "away_possession": 61,
+            "home_fouls": 11,
+            "away_fouls": 14,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 4,
+            "home": "SC Internacional",
+            "away": "SE Palmeiras",
+            "home_possession": 67,
+            "away_possession": 33,
+            "home_fouls": 15,
+            "away_fouls": 16,
+            "referee": "Felipe Fernandes de Lima"
+        },
+        {
+            "round": 4,
+            "home": "CR Flamengo",
+            "away": "EC Juventude",
+            "home_possession": 68,
+            "away_possession": 32,
+            "home_fouls": 14,
+            "away_fouls": 12,
+            "referee": "Matheus Delgado Candancan"
+        },
+        {
+            "round": 5,
+            "home": "CR Vasco da Gama",
+            "away": "CR Flamengo",
+            "home_possession": 36,
+            "away_possession": 64,
+            "home_fouls": 14,
+            "away_fouls": 10,
+            "referee": "Raphael Claus"
+        },
+        {
+            "round": 5,
+            "home": "SE Palmeiras",
+            "away": "Fortaleza EC",
+            "home_possession": 52,
+            "away_possession": 48,
+            "home_fouls": 12,
+            "away_fouls": 13,
+            "referee": "Paulo Cesar Zanovelli da Silva"
+        },
+        {
+            "round": 6,
+            "home": "CR Flamengo",
+            "away": "SC Corinthians Paulista",
+            "home_possession": 54,
+            "away_possession": 46,
+            "home_fouls": 14,
+            "away_fouls": 12,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 6,
+            "home": "SE Palmeiras",
+            "away": "EC Bahia",
+            "home_possession": 50,
+            "away_possession": 50,
+            "home_fouls": 12,
+            "away_fouls": 16,
+            "referee": "Wilton Pereira Sampaio"
+        },
+        {
+            "round": 7,
+            "home": "CR Vasco da Gama",
+            "away": "SE Palmeiras",
+            "home_possession": 52,
+            "away_possession": 48,
+            "home_fouls": 11,
+            "away_fouls": 8,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
+            "round": 7,
+            "home": "Cruzeiro EC",
+            "away": "CR Flamengo",
+            "home_possession": 41,
+            "away_possession": 59,
+            "home_fouls": 18,
+            "away_fouls": 9,
+            "referee": "Wilton Pereira Sampaio"
+        },
+        {
+            "round": 8,
+            "home": "CR Flamengo",
+            "away": "EC Bahia",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 11,
+            "away_fouls": 9,
+            "referee": "Anderson Daronco"
+        },
+        {
+            "round": 8,
+            "home": "SE Palmeiras",
+            "away": "São Paulo FC",
+            "home_possession": 57,
+            "away_possession": 43,
+            "home_fouls": 12,
+            "away_fouls": 16,
+            "referee": "Rafael Rodrigo Klein"
+        },
+        {
+            "round": 9,
+            "home": "CR Flamengo",
+            "away": "Botafogo FR",
+            "home_possession": 60,
+            "away_possession": 40,
+            "home_fouls": 9,
+            "away_fouls": 23,
+            "referee": "Bruno Arleu de Araujo"
+        },
+        {
+            "round": 9,
+            "home": "RB Bragantino",
+            "away": "SE Palmeiras",
+            "home_possession": 49,
+            "away_possession": 51,
+            "home_fouls": 15,
+            "away_fouls": 12,
+            "referee": "Marcelo de Lima Henrique"
+        },
+        {
+            "round": 10,
+            "home": "SE Palmeiras",
+            "away": "CR Flamengo",
+            "home_possession": 50,
+            "away_possession": 50,
+            "home_fouls": 13,
+            "away_fouls": 18,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 11,
+            "home": "CR Flamengo",
+            "away": "Fortaleza EC",
+            "home_possession": 65,
+            "away_possession": 35,
+            "home_fouls": 10,
+            "away_fouls": 11,
+            "referee": "Gustavo Ervino Bauermann"
+        },
+        {
+            "round": 11,
+            "home": "Cruzeiro EC",
+            "away": "SE Palmeiras",
+            "home_possession": 36,
+            "away_possession": 64,
+            "home_fouls": 17,
+            "away_fouls": 13,
+            "referee": "Rodrigo Jose Pereira de Lima"
+        },
+        {
+            "round": 13,
+            "home": "CR Flamengo",
+            "away": "São Paulo FC",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 12,
+            "away_fouls": 9,
+            "referee": "Wilton Pereira Sampaio"
+        },
+        {
+            "round": 14,
+            "home": "SE Palmeiras",
+            "away": "Mirassol FC",
+            "home_possession": 52,
+            "away_possession": 48,
+            "home_fouls": 13,
+            "away_fouls": 17,
+            "referee": "Savio Pereira Sampaio"
+        },
+        {
+            "round": 14,
+            "home": "Santos FC",
+            "away": "CR Flamengo",
+            "home_possession": 26,
+            "away_possession": 74,
+            "home_fouls": 16,
+            "away_fouls": 15,
+            "referee": "Felipe Fernandes de Lima"
+        },
+        {
+            "round": 15,
+            "home": "SE Palmeiras",
+            "away": "CA Mineiro",
+            "home_possession": 58,
+            "away_possession": 42,
+            "home_fouls": 22,
+            "away_fouls": 16,
+            "referee": "Alex Gomes Stefano"
+        },
+        {
+            "round": 15,
+            "home": "CR Flamengo",
+            "away": "Fluminense FC",
+            "home_possession": 66,
+            "away_possession": 34,
+            "home_fouls": 14,
+            "away_fouls": 6,
+            "referee": "Raphael Claus"
+        },
+        {
+            "round": 16,
+            "home": "Fluminense FC",
+            "away": "SE Palmeiras",
+            "home_possession": 54,
+            "away_possession": 46,
+            "home_fouls": 13,
+            "away_fouls": 15,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 16,
+            "home": "RB Bragantino",
+            "away": "CR Flamengo",
+            "home_possession": 37,
+            "away_possession": 63,
+            "home_fouls": 11,
+            "away_fouls": 18,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
+            "round": 17,
+            "home": "SE Palmeiras",
+            "away": "Grêmio FBPA",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 20,
+            "away_fouls": 21,
+            "referee": "Paulo Cesar Zanovelli da Silva"
+        },
+        {
+            "round": 17,
+            "home": "CR Flamengo",
+            "away": "CA Mineiro",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 18,
+            "away_fouls": 14,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 18,
+            "home": "Ceará SC",
+            "away": "CR Flamengo",
+            "home_possession": 31,
+            "away_possession": 69,
+            "home_fouls": 14,
+            "away_fouls": 12,
+            "referee": "Rodrigo Jose Pereira de Lima"
+        },
+        {
+            "round": 18,
+            "home": "EC Vitória",
+            "away": "SE Palmeiras",
+            "home_possession": 40,
+            "away_possession": 60,
+            "home_fouls": 13,
+            "away_fouls": 21,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
+            "round": 19,
+            "home": "CR Flamengo",
+            "away": "Mirassol FC",
+            "home_possession": 49,
+            "away_possession": 51,
+            "home_fouls": 23,
+            "away_fouls": 13,
+            "referee": "Paulo Cesar Zanovelli da Silva"
+        },
+        {
+            "round": 19,
+            "home": "SE Palmeiras",
+            "away": "Ceará SC",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 8,
+            "away_fouls": 12,
+            "referee": "Lucas Paulo Torezin"
+        },
+        {
+            "round": 20,
+            "home": "SC Internacional",
+            "away": "CR Flamengo",
+            "home_possession": 42,
+            "away_possession": 58,
+            "home_fouls": 12,
+            "away_fouls": 8,
+            "referee": "Rodrigo Jose Pereira de Lima"
+        },
+        {
+            "round": 20,
+            "home": "Botafogo FR",
+            "away": "SE Palmeiras",
+            "home_possession": 59,
+            "away_possession": 41,
+            "home_fouls": 7,
+            "away_fouls": 6,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
+            "round": 21,
+            "home": "SE Palmeiras",
+            "away": "SC Recife",
+            "home_possession": 46,
+            "away_possession": 54,
+            "home_fouls": 14,
+            "away_fouls": 12,
+            "referee": "Paulo Cesar Zanovelli da Silva"
+        },
+        {
+            "round": 21,
+            "home": "CR Flamengo",
+            "away": "EC Vitória",
+            "home_possession": 73,
+            "away_possession": 27,
+            "home_fouls": 17,
+            "away_fouls": 6,
+            "referee": "Felipe Fernandes de Lima"
+        },
+        {
+            "round": 22,
+            "home": "CR Flamengo",
+            "away": "Grêmio FBPA",
+            "home_possession": 67,
+            "away_possession": 33,
+            "home_fouls": 18,
+            "away_fouls": 11,
+            "referee": "Paulo Cesar Zanovelli da Silva"
+        },
+        {
+            "round": 22,
+            "home": "SC Corinthians Paulista",
+            "away": "SE Palmeiras",
+            "home_possession": 42,
+            "away_possession": 58,
+            "home_fouls": 18,
+            "away_fouls": 16,
+            "referee": "Ramon Abatti Abel"
+        }
+    ]
+}

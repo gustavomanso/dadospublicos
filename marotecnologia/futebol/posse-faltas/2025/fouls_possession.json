@@ -402,6 +402,26 @@
             "home_fouls": 18,
             "away_fouls": 16,
             "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 23,
+            "home": "SE Palmeiras",
+            "away": "SC Internacional",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 10,
+            "away_fouls": 16,
+            "referee": "Lucas Paulo Torezin"
+        },
+        {
+            "round": 23,
+            "home": "EC Juventude",
+            "away": "CR Flamengo",
+            "home_possession": 26,
+            "away_possession": 74,
+            "home_fouls": 16,
+            "away_fouls": 12,
+            "referee": "Raphael Claus"
         }
     ]
 }

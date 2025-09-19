@@ -1,0 +1,1325 @@
+{
+    "competition": "Campeonato Brasileiro Série A",
+    "data": [
+        {
+            "season": 2024,
+            "team": "Flamengo-RJ",
+            "average": 51084,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Corinthians-SP",
+            "average": 43605,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "São Paulo-SP",
+            "average": 39903,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Bahia-BA",
+            "average": 36022,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Fluminense-RJ",
+            "average": 32171,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Palmeiras-SP",
+            "average": 31328,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Fortaleza-CE",
+            "average": 31125,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Internacional-RS",
+            "average": 30820,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Athletico-PR",
+            "average": 30314,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Cruzeiro-MG",
+            "average": 30028,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Atlético-MG",
+            "average": 28961,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Botafogo-RJ",
+            "average": 25775,
+            "champion": true
+        },
+        {
+            "season": 2024,
+            "team": "Vitória-BA",
+            "average": 23249,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Grêmio-RS",
+            "average": 20345,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Vasco da Gama-RJ",
+            "average": 20248,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Criciúma-SC",
+            "average": 13667,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Juventude-RS",
+            "average": 8671,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Atlético-GO",
+            "average": 7168,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Red Bull Bragantino-SP",
+            "average": 5987,
+            "champion": false
+        },
+        {
+            "season": 2024,
+            "team": "Cuiabá-MT",
+            "average": 5732,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Flamengo-RJ",
+            "average": 54499,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "São Paulo-SP",
+            "average": 43800,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Corinthians-SP",
+            "average": 38393,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Bahia-BA",
+            "average": 36480,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Palmeiras-SP",
+            "average": 33167,
+            "champion": true
+        },
+        {
+            "season": 2023,
+            "team": "Fortaleza-CE",
+            "average": 32787,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Grêmio-RS",
+            "average": 31385,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Fluminense-RJ",
+            "average": 29782,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Cruzeiro-MG",
+            "average": 29307,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Atlético-MG",
+            "average": 27990,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Internacional-RS",
+            "average": 27326,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Botafogo-RJ",
+            "average": 26691,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Vasco da Gama-RJ",
+            "average": 26347,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Athletico-PR",
+            "average": 22283,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Coritiba-PR",
+            "average": 21466,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Cuiabá-MT",
+            "average": 14701,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Santos-SP",
+            "average": 12147,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Goiás-GO",
+            "average": 7698,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "Red Bull Bragantino-SP",
+            "average": 6046,
+            "champion": false
+        },
+        {
+            "season": 2023,
+            "team": "América-MG",
+            "average": 4934,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Flamengo-RJ",
+            "average": 51757,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Corinthians-SP",
+            "average": 38770,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Palmeiras-SP",
+            "average": 35943,
+            "champion": true
+        },
+        {
+            "season": 2022,
+            "team": "Fortaleza-CE",
+            "average": 32961,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Ceará-CE",
+            "average": 30471,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "São Paulo-SP",
+            "average": 30132,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Fluminense-RJ",
+            "average": 28262,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Atlético-MG",
+            "average": 25578,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Internacional-RS",
+            "average": 22902,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Coritiba-PR",
+            "average": 20608,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Botafogo-RJ",
+            "average": 19065,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Athletico-PR",
+            "average": 18685,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Cuiabá-MT",
+            "average": 12705,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Santos-SP",
+            "average": 11845,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Goiás-GO",
+            "average": 8845,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Avaí-SC",
+            "average": 8546,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Atlético-GO",
+            "average": 6289,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Red Bull Bragantino-SP",
+            "average": 4769,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "Juventude-RS",
+            "average": 3316,
+            "champion": false
+        },
+        {
+            "season": 2022,
+            "team": "América-MG",
+            "average": 2548,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Flamengo-RJ",
+            "average": 55025,
+            "champion": true
+        },
+        {
+            "season": 2019,
+            "team": "Fortaleza-CE",
+            "average": 33000,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Corinthians-SP",
+            "average": 32856,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "São Paulo-SP",
+            "average": 29432,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Palmeiras-SP",
+            "average": 27962,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Bahia-BA",
+            "average": 26339,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Ceará-CE",
+            "average": 26010,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Cruzeiro-MG",
+            "average": 22439,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Vasco da Gama-RJ",
+            "average": 20449,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Fluminense-RJ",
+            "average": 20209,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Internacional-RS",
+            "average": 19824,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Grêmio-RS",
+            "average": 16648,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Botafogo-RJ",
+            "average": 15922,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Atlético-MG",
+            "average": 15256,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Athletico-PR",
+            "average": 15115,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Goiás-GO",
+            "average": 13507,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "CSA-AL",
+            "average": 10706,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Santos-SP",
+            "average": 10307,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Avaí-SC",
+            "average": 7704,
+            "champion": false
+        },
+        {
+            "season": 2019,
+            "team": "Chapecoense-SC",
+            "average": 6004,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Flamengo-RJ",
+            "average": 47140,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "São Paulo-SP",
+            "average": 34321,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Palmeiras-SP",
+            "average": 32357,
+            "champion": true
+        },
+        {
+            "season": 2018,
+            "team": "Corinthians-SP",
+            "average": 31367,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Ceará-CE",
+            "average": 28079,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Internacional-RS",
+            "average": 28022,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Grêmio-RS",
+            "average": 22264,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Bahia-BA",
+            "average": 19315,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Atlético-MG",
+            "average": 17229,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Vasco da Gama-RJ",
+            "average": 14881,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Fluminense-RJ",
+            "average": 14459,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Cruzeiro-MG",
+            "average": 13521,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Botafogo-RJ",
+            "average": 11570,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Sport-PE",
+            "average": 11428,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Santos-SP",
+            "average": 10576,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Athletico-PR",
+            "average": 10570,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Chapecoense-SC",
+            "average": 9392,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Vitória-BA",
+            "average": 9182,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "Paraná-PR",
+            "average": 6223,
+            "champion": false
+        },
+        {
+            "season": 2018,
+            "team": "América-MG",
+            "average": 4898,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Corinthians-SP",
+            "average": 40007,
+            "champion": true
+        },
+        {
+            "season": 2017,
+            "team": "São Paulo-SP",
+            "average": 35228,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Palmeiras-SP",
+            "average": 29660,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Bahia-BA",
+            "average": 21541,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Grêmio-RS",
+            "average": 19728,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Vasco da Gama-RJ",
+            "average": 15031,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Cruzeiro-MG",
+            "average": 14522,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Flamengo-RJ",
+            "average": 14491,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Fluminense-RJ",
+            "average": 14432,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Coritiba-PR",
+            "average": 14348,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Athletico-PR",
+            "average": 13732,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Atlético-MG",
+            "average": 13153,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Sport-PE",
+            "average": 12349,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Santos-SP",
+            "average": 11585,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Vitória-BA",
+            "average": 10911,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Botafogo-RJ",
+            "average": 10194,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Chapecoense-SC",
+            "average": 9609,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Avaí-SC",
+            "average": 7568,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Ponte Preta-SP",
+            "average": 6084,
+            "champion": false
+        },
+        {
+            "season": 2017,
+            "team": "Atlético-GO",
+            "average": 5047,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Palmeiras-SP",
+            "average": 32471,
+            "champion": true
+        },
+        {
+            "season": 2016,
+            "team": "Corinthians-SP",
+            "average": 28764,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Internacional-RS",
+            "average": 25422,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Flamengo-RJ",
+            "average": 24542,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "São Paulo-SP",
+            "average": 22513,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Cruzeiro-MG",
+            "average": 20467,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Grêmio-RS",
+            "average": 20448,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Atlético-MG",
+            "average": 18510,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Athletico-PR",
+            "average": 15751,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Vitória-BA",
+            "average": 13997,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Sport-PE",
+            "average": 11968,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Santos-SP",
+            "average": 11225,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Coritiba-PR",
+            "average": 9894,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Fluminense-RJ",
+            "average": 9139,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Santa Cruz-PE",
+            "average": 8080,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Chapecoense-SC",
+            "average": 7612,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Botafogo-RJ",
+            "average": 7258,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Figueirense-SC",
+            "average": 6628,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "Ponte Preta-SP",
+            "average": 5310,
+            "champion": false
+        },
+        {
+            "season": 2016,
+            "team": "América-MG",
+            "average": 3353,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Corinthians-SP",
+            "average": 34150,
+            "champion": true
+        },
+        {
+            "season": 2015,
+            "team": "Flamengo-RJ",
+            "average": 30963,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Palmeiras-SP",
+            "average": 29633,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Grêmio-RS",
+            "average": 25249,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Atlético-MG",
+            "average": 23292,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Cruzeiro-MG",
+            "average": 22077,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "São Paulo-SP",
+            "average": 20562,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Internacional-RS",
+            "average": 18979,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Athletico-PR",
+            "average": 16430,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Fluminense-RJ",
+            "average": 16351,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Sport-PE",
+            "average": 15081,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Coritiba-PR",
+            "average": 14001,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Vasco da Gama-RJ",
+            "average": 12875,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Joinville-SC",
+            "average": 9848,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Chapecoense-SC",
+            "average": 9072,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Figueirense-SC",
+            "average": 8696,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Santos-SP",
+            "average": 8691,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Avaí-SC",
+            "average": 8477,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Goiás-GO",
+            "average": 7972,
+            "champion": false
+        },
+        {
+            "season": 2015,
+            "team": "Ponte Preta-SP",
+            "average": 6225,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Cruzeiro-MG",
+            "average": 29676,
+            "champion": true
+        },
+        {
+            "season": 2014,
+            "team": "Corinthians-SP",
+            "average": 28960,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "São Paulo-SP",
+            "average": 28544,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Flamengo-RJ",
+            "average": 26411,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Internacional-RS",
+            "average": 22318,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Grêmio-RS",
+            "average": 21032,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Palmeiras-SP",
+            "average": 19755,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Fluminense-RJ",
+            "average": 18490,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Sport-PE",
+            "average": 18220,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Atlético-MG",
+            "average": 14132,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Bahia-BA",
+            "average": 12579,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Coritiba-PR",
+            "average": 12329,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Athletico-PR",
+            "average": 12238,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Botafogo-RJ",
+            "average": 11362,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Vitória-BA",
+            "average": 10267,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Chapecoense-SC",
+            "average": 10021,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Santos-SP",
+            "average": 9243,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Criciúma-SC",
+            "average": 9089,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Figueirense-SC",
+            "average": 8378,
+            "champion": false
+        },
+        {
+            "season": 2014,
+            "team": "Goiás-GO",
+            "average": 6942,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Cruzeiro-MG",
+            "average": 28902,
+            "champion": true
+        },
+        {
+            "season": 2013,
+            "team": "Corinthians-SP",
+            "average": 24441,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Flamengo-RJ",
+            "average": 23385,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "São Paulo-SP",
+            "average": 23115,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Grêmio-RS",
+            "average": 19764,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Bahia-BA",
+            "average": 18449,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Fluminense-RJ",
+            "average": 17637,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Vasco da Gama-RJ",
+            "average": 17618,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Vitória-BA",
+            "average": 14780,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Coritiba-PR",
+            "average": 14651,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Botafogo-RJ",
+            "average": 12685,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Goiás-GO",
+            "average": 12680,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Criciúma-SC",
+            "average": 11548,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Atlético-MG",
+            "average": 11436,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Santos-SP",
+            "average": 10405,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Náutico-PE",
+            "average": 10262,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Athletico-PR",
+            "average": 8772,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Internacional-RS",
+            "average": 7234,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Ponte Preta-SP",
+            "average": 6414,
+            "champion": false
+        },
+        {
+            "season": 2013,
+            "team": "Portuguesa-SP",
+            "average": 4842,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Corinthians-SP",
+            "average": 25222,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "São Paulo-SP",
+            "average": 24183,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Grêmio-RS",
+            "average": 23530,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Bahia-BA",
+            "average": 18981,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Atlético-MG",
+            "average": 18274,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Sport-PE",
+            "average": 17811,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Náutico-PE",
+            "average": 12894,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Fluminense-RJ",
+            "average": 12644,
+            "champion": true
+        },
+        {
+            "season": 2012,
+            "team": "Coritiba-PR",
+            "average": 12579,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Flamengo-RJ",
+            "average": 12250,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Palmeiras-SP",
+            "average": 11983,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Cruzeiro-MG",
+            "average": 11677,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Internacional-RS",
+            "average": 9270,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Botafogo-RJ",
+            "average": 8522,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Santos-SP",
+            "average": 8108,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Figueirense-SC",
+            "average": 7999,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Vasco da Gama-RJ",
+            "average": 7559,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Ponte Preta-SP",
+            "average": 6238,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Atlético-GO",
+            "average": 5587,
+            "champion": false
+        },
+        {
+            "season": 2012,
+            "team": "Portuguesa-SP",
+            "average": 4236,
+            "champion": false
+        }
+    ]
+}

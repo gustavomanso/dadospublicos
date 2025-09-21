@@ -422,6 +422,26 @@
             "home_fouls": 16,
             "away_fouls": 12,
             "referee": "Raphael Claus"
+        },
+        {
+            "round": 24,
+            "home": "SE Palmeiras",
+            "away": "Fortaleza EC",
+            "home_possession": 66,
+            "away_possession": 34,
+            "home_fouls": 11,
+            "away_fouls": 15,
+            "referee": "Alex Gomes Stefano"
+        },
+        {
+            "round": 24,
+            "home": "CR Flamengo",
+            "away": "Vasco da Gama",
+            "home_possession": 61,
+            "away_possession": 39,
+            "home_fouls": 15,
+            "away_fouls": 12,
+            "referee": "Rafael Rodrigo Klein"
         }
     ]
 }

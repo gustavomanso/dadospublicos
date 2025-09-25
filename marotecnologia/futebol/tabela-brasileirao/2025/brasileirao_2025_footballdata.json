@@ -3,7 +3,7 @@
   "season": 2025,
   "source": "football-data.org",
   "endpoint": "https://api.football-data.org/v4/competitions/BSA/matches?season=2025&status=FINISHED&limit=500",
-  "updated_at": "2025-09-22T10:59:36.618Z",
+  "updated_at": "2025-09-25T19:02:41.079Z",
   "matches": [
     {
       "round": 1,
@@ -2304,6 +2304,26 @@
       "away_goals": 1,
       "status": "FINISHED",
       "match_id": 535170
+    },
+    {
+      "round": 16,
+      "date_utc": "2025-09-24T22:30:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "EC Bahia",
+      "home_goals": 3,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "match_id": 535086
+    },
+    {
+      "round": 16,
+      "date_utc": "2025-09-24T22:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "Botafogo FR",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "match_id": 535091
     }
   ]
 }

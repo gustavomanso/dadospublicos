@@ -442,6 +442,26 @@
             "home_fouls": 15,
             "away_fouls": 12,
             "referee": "Rafael Rodrigo Klein"
+        },
+        {
+            "round": 25,
+            "home": "EC Bahia",
+            "away": "SE Palmeiras",
+            "home_possession": 53,
+            "away_possession": 47,
+            "home_fouls": 13,
+            "away_fouls": 18,
+            "referee": "Anderson Daronco"
+        },
+        {
+            "round": 25,
+            "home": "SC Corinthians Paulista",
+            "away": "CR Flamengo",
+            "home_possession": 48,
+            "away_possession": 52,
+            "home_fouls": 16,
+            "away_fouls": 21,
+            "referee": "Wilton Pereira Sampaio"
         }
     ]
 }

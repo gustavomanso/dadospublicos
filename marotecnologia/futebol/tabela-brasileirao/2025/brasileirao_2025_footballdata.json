@@ -3,7 +3,7 @@
   "season": 2025,
   "source": "football-data.org",
   "endpoint": "https://api.football-data.org/v4/competitions/BSA/matches?season=2025&status=FINISHED&limit=500",
-  "updated_at": "2025-09-29T12:04:39.016Z",
+  "updated_at": "2025-09-30T11:29:09.930Z",
   "matches": [
     {
       "round": 1,
@@ -2414,6 +2414,16 @@
       "away_goals": 2,
       "status": "FINISHED",
       "match_id": 535177
+    },
+    {
+      "round": 25,
+      "date_utc": "2025-09-29T23:00:00Z",
+      "home": "São Paulo FC",
+      "away": "Ceará SC",
+      "home_goals": 0,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "match_id": 535178
     }
   ]
 }

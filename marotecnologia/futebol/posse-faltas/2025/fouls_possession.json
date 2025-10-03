@@ -462,6 +462,26 @@
             "home_fouls": 16,
             "away_fouls": 21,
             "referee": "Wilton Pereira Sampaio"
+        },
+        {
+            "round": 26,
+            "home": "SE Palmeiras",
+            "away": "CR Vasco da Gama",
+            "home_possession": 44,
+            "away_possession": 56,
+            "home_fouls": 7,
+            "away_fouls": 15,
+            "referee": "Murilo Ugolini Klein"
+        },
+        {
+            "round": 26,
+            "home": "CR Flamengo",
+            "away": "Cruzeiro EC",
+            "home_possession": 62,
+            "away_possession": 38,
+            "home_fouls": 16,
+            "away_fouls": 19,
+            "referee": "Ramon Abatti Abel"
         }
     ]
 }

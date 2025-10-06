@@ -482,6 +482,26 @@
             "home_fouls": 16,
             "away_fouls": 19,
             "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 27,
+            "home": "São Paulo FC",
+            "away": "SE Palmeiras",
+            "home_possession": 51,
+            "away_possession": 49,
+            "home_fouls": 12,
+            "away_fouls": 12,
+            "referee": "Ramon Abatti Abel"
+        },
+        {
+            "round": 27,
+            "home": "EC Bahia",
+            "away": "CR Flamengo",
+            "home_possession": 52,
+            "away_possession": 48,
+            "home_fouls": 22,
+            "away_fouls": 14,
+            "referee": "Rodrigo Jose Pereira de Lima"
         }
     ]
 }

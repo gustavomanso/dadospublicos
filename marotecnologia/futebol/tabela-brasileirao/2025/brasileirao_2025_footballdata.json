@@ -3,7 +3,7 @@
   "season": 2025,
   "source": "football-data.org",
   "endpoint": "https://api.football-data.org/v4/competitions/BSA/matches?season=2025&status=FINISHED&limit=500",
-  "updated_at": "2025-10-03T12:29:03.635Z",
+  "updated_at": "2025-10-06T17:33:18.082Z",
   "matches": [
     {
       "round": 1,
@@ -2524,6 +2524,106 @@
       "away_goals": 0,
       "status": "FINISHED",
       "match_id": 535185
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-04T21:30:00Z",
+      "home": "Fluminense FC",
+      "away": "CA Mineiro",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535195
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-04T21:30:00Z",
+      "home": "RB Bragantino",
+      "away": "Grêmio FBPA",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535199
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-04T21:30:00Z",
+      "home": "SC Internacional",
+      "away": "Botafogo FR",
+      "home_goals": 2,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535201
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T00:00:00Z",
+      "home": "SC Corinthians Paulista",
+      "away": "Mirassol FC",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535197
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T19:00:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "EC Vitória",
+      "home_goals": 4,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "match_id": 535196
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T19:00:00Z",
+      "home": "São Paulo FC",
+      "away": "SE Palmeiras",
+      "home_goals": 2,
+      "away_goals": 3,
+      "status": "FINISHED",
+      "match_id": 535198
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T21:30:00Z",
+      "home": "EC Bahia",
+      "away": "CR Flamengo",
+      "home_goals": 1,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535202
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T21:30:00Z",
+      "home": "EC Juventude",
+      "away": "Fortaleza EC",
+      "home_goals": 1,
+      "away_goals": 2,
+      "status": "FINISHED",
+      "match_id": 535204
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T23:30:00Z",
+      "home": "Cruzeiro EC",
+      "away": "SC Recife",
+      "home_goals": 1,
+      "away_goals": 1,
+      "status": "FINISHED",
+      "match_id": 535200
+    },
+    {
+      "round": 27,
+      "date_utc": "2025-10-05T23:30:00Z",
+      "home": "Ceará SC",
+      "away": "Santos FC",
+      "home_goals": 3,
+      "away_goals": 0,
+      "status": "FINISHED",
+      "match_id": 535203
     }
   ]
 }

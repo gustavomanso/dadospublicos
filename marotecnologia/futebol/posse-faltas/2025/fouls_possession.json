@@ -204,6 +204,16 @@
             "referee": "Gustavo Ervino Bauermann"
         },
         {
+            "round": 12,
+            "home": "SE Palmeiras",
+            "away": "EC Juventude",
+            "home_possession": 67,
+            "away_possession": 33,
+            "home_fouls": 9,
+            "away_fouls": 15,
+            "referee": "Davi de Oliveira Lacerda"
+        },
+        {
             "round": 11,
             "home": "Cruzeiro EC",
             "away": "SE Palmeiras",
@@ -502,6 +512,26 @@
             "home_fouls": 22,
             "away_fouls": 14,
             "referee": "Rodrigo Jose Pereira de Lima"
+        },
+        {
+            "round": 28,
+            "home": "SE Palmeiras",
+            "away": "RB Bragantino",
+            "home_possession": 62,
+            "away_possession": 38,
+            "home_fouls": 9,
+            "away_fouls": 14,
+            "referee": "Raphael Claus"
+        },
+        {
+            "round": 28,
+            "home": "Botafogo FR",
+            "away": "CR Flamengo",
+            "home_possession": 40,
+            "away_possession": 60,
+            "home_fouls": 17,
+            "away_fouls": 17,
+            "referee": "Alex Gomes Stefano"
         }
     ]
 }
